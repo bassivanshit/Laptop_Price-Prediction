@@ -3,7 +3,7 @@
 [![Python](https://img.shields.io/badge/Python-3.8+-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org)
 [![Machine Learning](https://img.shields.io/badge/Machine%20Learning-Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)](https://scikit-learn.org/)
 [![Data Visualization](https://img.shields.io/badge/Visualization-Seaborn%20%26%20Matplotlib-11557C?style=for-the-badge&logo=pandas&logoColor=white)](https://seaborn.pydata.org/)
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg?style=for-the-badge)](https://opensource.org/licenses/MIT)
+
 
 > **An End-to-End Data Science Workflow:** Transforming raw retail technical specifications into an accurate pricing strategy engine using predictive modeling.
 
